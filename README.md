@@ -1,6 +1,6 @@
-# Hi there 👋
+## Hi there 👋
 <br>
-<!<h1 align="center">Hi 👋, I'm SUBHASHREE NAYAK</h1>
+<!<h1 align="center"> I'm SUBHASHREE NAYAK</h1>
 <h3 align="center">A passionate B.Tech student (Branch: Electronics and Telecommunication)</h3>
 
 - 🌱 I’m currently learning **Data Structure and Algorithm , python**
