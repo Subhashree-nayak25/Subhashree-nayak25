@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithm , python**
 
-- 👨‍💻 All of my projects are available at : I created a copy of amazon website using HTML and CSS. [https://1drv.ms/u/c/447af450b4e89f37/EZvCeDHt1RREgx9qpRMPvU8B9cwM0E4V5wjhm87Gn83seA?e=tgO5fa](https://1drv.ms/u/c/447af450b4e89f37/EZvCeDHt1RREgx9qpRMPvU8B9cwM0E4V5wjhm87Gn83seA?e=tgO5fa)
+- 👨‍💻 All of my projects are available at : I created a copy of amazon website using HTML and CSS.Here is the code: [https://1drv.ms/u/c/447af450b4e89f37/EZvCeDHt1RREgx9qpRMPvU8B9cwM0E4V5wjhm87Gn83seA?e=tgO5fa](https://1drv.ms/u/c/447af450b4e89f37/EZvCeDHt1RREgx9qpRMPvU8B9cwM0E4V5wjhm87Gn83seA?e=tgO5fa)
 
 - 📫 How to reach me **nayaksubhashree97873@gmail.com**
 
